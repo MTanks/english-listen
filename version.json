@@ -1,6 +1,6 @@
 {
-  "versionName": "2.9.999",
-  "versionCode": 999,
+  "versionName": "2.9.106",
+  "versionCode": 176,
   "apkUrl": "https://github.com/MTanks/yuchen-listen-ota/releases/download/v2.9.106/fossify-listen-v2.9.106.apk",
-  "notes": "临时测试版本号（验证设备端 OTA 全链路），稍后恢复。"
+  "notes": "更新通道自愈迁移：曾手动切到 Netlify 旧通道的设备自动回到 GitHub 默认通道，OTA 永久零 Netlify 积分。"
 }
