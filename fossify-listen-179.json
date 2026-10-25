@@ -1,0 +1,6 @@
+{
+  "versionName": "2.9.109",
+  "versionCode": 179,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.109.apk",
+  "notes": "检查失败不再写入 12 小时节流（失败后下次进家长中心立即自动重试）。"
+}
