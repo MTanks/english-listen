@@ -1,0 +1,6 @@
+{
+  "versionName": "2.9.108",
+  "versionCode": 178,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.108.apk",
+  "notes": "更新通道切换至 jsDelivr CDN + 编号探测方案，修复 raw.githubusercontent.com 国内不稳定导致的检查失败与长延时。"
+}
