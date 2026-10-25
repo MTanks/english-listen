@@ -1,6 +1,0 @@
-{
-  "versionName": "2.9.107",
-  "versionCode": 177,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.107.apk",
-  "notes": "更新通道切换至 jsDelivr CDN（国内稳定可达），APK 与版本号均走 jsDelivr；GitHub 仓库仍为源站。"
-}
