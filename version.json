@@ -2,5 +2,5 @@
   "versionName": "2.9.105",
   "versionCode": 175,
   "apkUrl": "https://github.com/MTanks/yuchen-listen-ota/releases/download/v2.9.105/fossify-listen-v2.9.105.apk",
-  "notes": "更新通道迁移至 GitHub Releases（零 Netlify 积分消耗）。本次起所有 OTA 流量走 GitHub。"
+  "notes": "更新通道迁移至 GitHub Releases（零 Netlify 积分消耗）。"
 }
