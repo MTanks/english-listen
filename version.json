@@ -1,0 +1,6 @@
+{
+  "versionName": "2.9.108",
+  "versionCode": 178,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.108.apk",
+  "notes": "兼容桥：仅供 2.9.107 及更早旧版设备读取（其代码仍请求 version.json）。升级到 2.9.108 后将改用编号探测方案，此文件不再需要维护。"
+}
