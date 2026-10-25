@@ -1,0 +1,6 @@
+{
+  "versionName": "2.9.111",
+  "versionCode": 181,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.111.apk",
+  "notes": "修复学习报告「本周」周日显示 0 分钟的 bug：本周统计统一为周一到周日（周一为第一天、周日午夜翻篇），覆盖学习报告总量、周对比、打卡天数及 Dashboard/家长中心的本周时长。"
+}
