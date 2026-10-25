@@ -1,0 +1,6 @@
+{
+  "versionName": "3.0.01",
+  "versionCode": 182,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v3.0.01.apk",
+  "notes": "版本号升级至 3.0.01。本周统计口径修复（周一为第一天、周日午夜翻篇）自 2.9.111 起已生效，此版为正式版号。"
+}
