@@ -1,0 +1,6 @@
+{
+  "versionName": "2.9.110",
+  "versionCode": 180,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/MTanks/english-listen@main/fossify-listen-v2.9.110.apk",
+  "notes": "修复首次升级流程洞：授予「安装未知应用」权限返回后自动继续安装，无需再手动点一次更新。"
+}
